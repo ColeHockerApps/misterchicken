@@ -13,8 +13,8 @@ workflows:
         distribution_type: app_store
         bundle_identifier: com.aliboukgames.misterchicken
       vars:
-        XCODE_PROJECT: "grindomapp.xcodeproj"
-        XCODE_SCHEME: "grindomapp"   # fixed quotes
+        XCODE_PROJECT: "misterchicken.xcodeproj"
+        XCODE_SCHEME: "misterchicken"   # fixed quotes
         APP_STORE_APPLE_ID: 6756622739
  
     cache:
